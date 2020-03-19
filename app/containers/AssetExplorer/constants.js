@@ -1,0 +1,30 @@
+/*
+ *
+ * AssetExplorer constants
+ *
+ */
+
+export const GET_ASSET_DETAIL_REQUEST =
+  'app/Explorer/GET_ASSET_DETAIL_REQUEST';
+export const GET_ASSET_DETAIL_FAILURE =
+  'app/Explorer/GET_ASSET_DETAIL_FAILURE';
+export const GET_ASSET_DETAIL_SUCCESS =
+  'app/Explorer/GET_ASSET_DETAIL_SUCCESS';
+
+export const GET_ALL_ASSETS_REQUEST =
+  'app/Explorer/GET_ALL_ASSETS_REQUEST';
+export const GET_ALL_ASSETS_FAILURE =
+  'app/Explorer/GET_ALL_ASSETS_FAILURE';
+export const GET_ALL_ASSETS_SUCCESS =
+  'app/Explorer/GET_ALL_ASSETS_SUCCESS';
+
+export const GET_NEXT_ASSET_LIST_PAGE_REQUEST =
+  'app/Explorer/GET_NEXT_ASSET_LIST_PAGE_REQUEST';
+export const GET_NEXT_ASSET_LIST_PAGE_SUCCESS =
+  'app/Explorer/GET_NEXT_ASSET_LIST_PAGE_SUCCESS';
+export const GET_NEXT_ASSET_LIST_PAGE_FAILURE =
+  'app/Explorer/GET_NEXT_ASSET_LIST_PAGE_FAILURE';
+
+export const GET_CATEGORIES_REQUEST = 'app/Explorer/GET_CATEGORIES_REQUEST';
+export const GET_CATEGORIES_SUCCESS = 'app/Explorer/GET_CATEGORIES_SUCCESS';
+export const GET_CATEGORIES_FAILURE = 'app/Explorer/GET_CATEGORIES_FAILURE';
